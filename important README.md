@@ -1,5 +1,8 @@
 # the-one-obsidian-vault-template-to-rule-them-all
 
+# pro-tip:
+make obsidian your own, i think i provide a pretty good entire vault structure but the structure that works best for you will be the one that you create yourself based on your own needs/wants, make this vault your own if something is missing from it or you would like it to function in a different way.
+
 # obsidian is neccessary to use an obsidian vault i think
 here is a link to download obsidian https://obsidian.md/download
 
