@@ -1,5 +1,8 @@
 # the-one-obsidian-vault-template-to-rule-them-all
 
+# obsidian is neccessary to use an obsidian vault i think
+here is a link to download obsidian https://obsidian.md/download
+
 # USE SYNCTHING/MOBIUS TO SYNC YOUR VAULT BETWEEN DEVICES ON YOUR WIFI!
 syncthing can be found here https://syncthing.net/downloads/
 it is available on pc/android only, for ios you must use mobius
