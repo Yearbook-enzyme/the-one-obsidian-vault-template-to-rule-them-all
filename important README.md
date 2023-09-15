@@ -50,6 +50,12 @@ words changed to fit the example structure.
 there are places in the templates that say to backlink,
 backlinking looks like this [[choose-folder/note]].
 
+# how to use a template
+_on desktop_ when you are writing a note there is 
+a button on the left side of the screen that says insert template
+where you select your template and continue your note. _on mobile_ when you are writing a note there is
+a button on the bottom for inserting a template similarly to desktop.
+
 # how to attach/embed and image in a note
 you may have to attach an image to a note from time to time,
 the default folder for embedded media is aptly named "embedded media",
