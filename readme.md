@@ -26,6 +26,8 @@ or are handing off your data to cloud servers
 its a obsidian vault template which covers most
 aspects of my life and was born out of my own lack of
 discipline and was created largely with chatgpt.
+the structure i made is a blend of a lot of different
+things and doesnt include things which i dont have problems with.
 
 ### no community plugins are utilized in this vault so there is nothing extra to install
 
