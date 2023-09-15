@@ -19,7 +19,7 @@ or are handing off your data to cloud servers
 
 # description
 its a obsidian vault template which covers most
-aspects of my life and was born out of my own lack up
+aspects of my life and was born out of my own lack of
 discipline and was created largely with chatgpt.
 
 # no community plugins are utilized in this vault so there is nothing extra to install
